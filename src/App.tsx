@@ -1,13 +1,11 @@
-// import { useState } from 'react'
 import './App.css'
+import { Signup } from './components/Signup'
 
 function App() {
 
   return (
     <>
-      <section id="center">
-
-      </section>
+      <Signup />
     </>
   )
 }
